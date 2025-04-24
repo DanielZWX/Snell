@@ -1,6 +1,5 @@
-# Others
+Fork from https://github.com/xOS/Snell 
 
-> 小东西
+简单修改 
 
-### 临时文件存放
-
+自用
